@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgaibl_sites_docusaurus=self.webpackChunkgaibl_sites_docusaurus||[]).push([[9661],{1892:(s,e,u)=>{u.r(e),u.d(e,{default:()=>d});u(7294);var r=u(512),a=u(1944),c=u(5281),t=u(8790),i=u(6040),l=u(5893);function d(s){return(0,l.jsx)(a.FG,{className:(0,r.Z)(c.k.wrapper.docsPages),children:(0,l.jsx)(i.Z,{children:(0,t.H)(s.route.routes)})})}}}]);
